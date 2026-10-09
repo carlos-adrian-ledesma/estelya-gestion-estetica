@@ -70,10 +70,15 @@ Conocé ESTELYA, una aplicación administrativa para centros de estética, peluq
 
 ### Cómo utilizarlo
 
-1. Descargá y extraé completamente el ZIP.
-2. Abrí la carpeta `ESTELYA_DEMO`.
-3. Ejecutá `ESTELYA_DEMO.exe`.
-4. Explorá las funcionalidades con información ficticia.
+1. Descargá `ESTELYA_DEMO_Windows_x64_v2.0.0-rc.3.2.zip`.
+2. Extraé completamente el contenido en una carpeta de tu computadora.
+3. Abrí la carpeta generada al descomprimir.
+4. Ejecutá `ESTELYA_DEMO.exe` sin moverlo fuera de su carpeta.
+5. Explorá la aplicación con datos ficticios.
+
+**Requisitos:** Windows x64 compatible. No es necesario instalar Python.
+
+**Importante:** ESTELYA DEMO es una versión preliminar de evaluación. No utilizar con datos reales de clientes o pacientes.
 
 **Características:** demostración gratuita, funcionamiento local, sin contraseña de prueba compartida y sin necesidad de instalar Python.
 
