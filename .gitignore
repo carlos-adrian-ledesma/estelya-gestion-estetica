@@ -1,0 +1,46 @@
+
+# ESTELYA — QuintaDimensión Tecnología
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Compilación
+build/
+dist/
+*.spec.bak
+
+# Datos locales
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.log
+Backups/
+Logs/
+
+# Secretos y configuración privada
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+
+# Herramientas de desarrollo
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
