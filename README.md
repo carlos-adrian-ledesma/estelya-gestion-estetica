@@ -54,11 +54,35 @@ Python, Tkinter/CustomTkinter, SQLite, Pillow, `cryptography`, Argon2id, ReportL
 - Cifrado selectivo; no protege automáticamente todos los adjuntos.
 - Sin telemetría remota por defecto; no existe backend comercial de gadgets.
 - Estado RC: pruebas automatizadas y GUI virtual aprobadas; pruebas Windows del instalador pendientes.
-- No se entregan ejecutables ni código completo en este repositorio de portfolio.
+- El ejecutable de demostración para Windows se distribuye mediante GitHub Releases. El código fuente propietario completo permanece privado. No existe todavía un instalador comercial validado.
 
 ## Distribución y derechos
 
 El proyecto se proyecta como **software gratuito de uso** para comercios, con futuras herramientas opcionales de pago. La visibilidad del portfolio no concede licencia de reutilización del código ni convierte al proyecto en open source. Consultar [estado legal y borrador](LICENSE_TERMS_DRAFT.md) y [copyright](COPYRIGHT.md).
+
+## 🌸 Descargar ESTELYA DEMO — Windows x64
+
+**ESTELYA CORE FREE v2.0.0-rc.3.2 — Versión candidata de demostración**
+
+Conocé ESTELYA, una aplicación administrativa para centros de estética, peluquerías, spas y comercios de belleza.
+
+**[⬇️ Descargar ESTELYA DEMO para Windows](https://github.com/carlos-adrian-ledesma/estelya-gestion-estetica/releases/download/v2.0.0-rc.3.2/ESTELYA_DEMO_Windows_x64_v2.0.0-rc.3.2.zip)**
+
+### Cómo utilizarlo
+
+1. Descargá y extraé completamente el ZIP.
+2. Abrí la carpeta `ESTELYA_DEMO`.
+3. Ejecutá `ESTELYA_DEMO.exe`.
+4. Explorá las funcionalidades con información ficticia.
+
+**Características:** demostración gratuita, funcionamiento local, sin contraseña de prueba compartida y sin necesidad de instalar Python.
+
+**Estado:** Pre-release. El programa continúa en evaluación y no debe utilizarse para administrar datos personales o clínicos reales.
+
+[Consultar versiones y notas de publicación](https://github.com/carlos-adrian-ledesma/estelya-gestion-estetica/releases)
+
+[Verificar integridad SHA-256](https://github.com/carlos-adrian-ledesma/estelya-gestion-estetica/releases/download/v2.0.0-rc.3.2/ESTELYA_DEMO_Windows_x64_v2.0.0-rc.3.2.zip.sha256.txt)
+
 
 ## Desarrollo y próximos pasos
 
