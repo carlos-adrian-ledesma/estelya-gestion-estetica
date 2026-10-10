@@ -47,6 +47,24 @@ Estas capturas provienen de ESTELYA ejecutada con **datos ficticios** en una int
 
 Python, Tkinter/CustomTkinter, SQLite, Pillow, `cryptography`, Argon2id, ReportLab y python-docx. PyInstaller e Inno Setup son parte de la preparación de distribución Windows.
 
+## 💻 Ingeniería de software — Ejemplos de código
+
+ESTELYA también presenta una selección de código Python real para facilitar la evaluación técnica del proyecto.
+
+Los ejemplos permiten revisar decisiones de ingeniería sin necesidad de acceder al código fuente propietario completo.
+
+**Contenido disponible:**
+
+- **Arquitectura y navegación modular:** organización de siete áreas administrativas y sus pantallas.
+- **Pruebas de regresión:** validación de la estructura de navegación mediante pruebas automatizadas.
+- **SQLite y datos de demostración:** preparación de registros ficticios para un entorno de evaluación aislado.
+
+📂 **[Consultar ejemplos de código — CODE_SAMPLES.md](CODE_SAMPLES.md)**
+
+**Alcance:** los fragmentos corresponden a ESTELYA v2.0.0-rc.3.2 y se publican exclusivamente para revisión técnica del portfolio. No constituyen la aplicación completa ni una certificación de seguridad.
+
+El código fuente integral se mantiene privado.
+
 ## Privacidad, alcance y límites
 
 - Opera sobre base SQLite local.
